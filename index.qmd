@@ -1,6 +1,2 @@
----
-title: "Home"
----
-Welcome to my MADA portfolio site. 
-
-Follow the menu and enjoy!
+## Welcome
+This site documents my work for **Modern Applied Data Analysis (MADA)**, including weekly reflections, tool setup, and my semester-long data analysis project. It will evolve as the course progresses.

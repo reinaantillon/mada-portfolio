@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "MADA Portfolio",
     "section": "",
-    "text": "Welcome to my MADA portfolio site.\nFollow the menu and enjoy!"
+    "text": "This site documents my work for Modern Applied Data Analysis (MADA), including weekly reflections, tool setup, and my semester-long data analysis project. It will evolve as the course progresses."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,68 @@
     "title": "About Me",
     "section": "",
     "text": "Hi everyone, my name is Alexandra (Alex) Tejada-Strop, and I’m a DrPH student in Health Policy and Management. I have a background in public health and laboratory science and have used R for basic data cleaning, analysis, and visualization. I’m comfortable with statistics conceptually, but I’m still developing my applied modeling skills. My experience with Git and GitHub is limited, so I’m looking forward to getting more practice with reproducible workflows.\nIn this course, I hope to strengthen my skills in reproducible data analysis, model evaluation, and using tools like Quarto and tidymodels. I’m interested in applying what we learn to real-world public health or surveillance data, potentially aligned with my dissertation or professional work.\nI work full-time at the CDC for the Division of Hepatitis at the Laboratory Branch. I also have a 10 year old son that loves sports, and my husband Jared. Our favorite thing it to travel and try new restaurants. The puppy in the picture is our cavapoo, Maple.\nTo know more about me, here is the link to my LinkedIn profile."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "MADA Course Project",
+    "section": "",
+    "text": "This page will document my semester-long data analysis project for the MADA course."
+  },
+  {
+    "objectID": "projects.html#project-overview",
+    "href": "projects.html#project-overview",
+    "title": "MADA Course Project",
+    "section": "",
+    "text": "This page will document my semester-long data analysis project for the MADA course."
+  },
+  {
+    "objectID": "projects.html#status",
+    "href": "projects.html#status",
+    "title": "MADA Course Project",
+    "section": "Status",
+    "text": "Status\n🔧 Project in planning phase (topic and data exploration underway)."
+  },
+  {
+    "objectID": "projects.html#tentative-interests",
+    "href": "projects.html#tentative-interests",
+    "title": "MADA Course Project",
+    "section": "Tentative Interests",
+    "text": "Tentative Interests\nI am currently interested in exploring questions related to: - Public health data - Health outcomes and disparities - Reproducible data analysis workflows"
+  },
+  {
+    "objectID": "projects.html#next-steps",
+    "href": "projects.html#next-steps",
+    "title": "MADA Course Project",
+    "section": "Next Steps",
+    "text": "Next Steps\n\nIdentify a suitable dataset\nRefine a research question\nSet up a project repository using the course template"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "MADA Portfolio",
+    "section": "",
+    "text": "This site documents my work for Modern Applied Data Analysis (MADA), including weekly reflections, tool setup, and my semester-long data analysis project. It will evolve as the course progresses."
+  },
+  {
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "Contacts / Links",
+    "section": "",
+    "text": "Email: aat97057@uga.edu To know more about me, here is the link to my LinkedIn profile."
+  },
+  {
+    "objectID": "reflections.html",
+    "href": "reflections.html",
+    "title": "Weekly Reflections",
+    "section": "",
+    "text": "This week focused on understanding the full data analysis workflow, from question and data matching to reporting results. A key takeaway for me was the importance of reproducibility and interpretation over applying advanced models."
+  },
+  {
+    "objectID": "reflections.html#week-2-big-picture-of-data-analysis",
+    "href": "reflections.html#week-2-big-picture-of-data-analysis",
+    "title": "Weekly Reflections",
+    "section": "",
+    "text": "This week focused on understanding the full data analysis workflow, from question and data matching to reporting results. A key takeaway for me was the importance of reproducibility and interpretation over applying advanced models."
   }
 ]

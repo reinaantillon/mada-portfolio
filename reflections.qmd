@@ -1,0 +1,7 @@
+---
+title: "Weekly Reflections"
+---
+
+## Week 2 – Big Picture of Data Analysis
+
+This week focused on understanding the full data analysis workflow, from question and data matching to reporting results. A key takeaway for me was the importance of reproducibility and interpretation over applying advanced models.

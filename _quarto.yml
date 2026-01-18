@@ -11,7 +11,12 @@ website:
       - href: about.qmd
         text: About Me
       - href: projects.qmd
-        text: Projects  
+        text: MADA Course Projects
+      - href: reflections.qmd
+        text: Weekly Reflections
+      - href: contacts.qmd 
+        text: Contact / Links 
+
     right:
       - icon: github
         href: https://github.com/alex8528/mada-portfolio
