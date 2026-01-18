@@ -32,14 +32,14 @@
     "href": "projects.html#status",
     "title": "MADA Course Project",
     "section": "Status",
-    "text": "Status\n🔧 Project in planning phase (topic and data exploration underway)."
+    "text": "Status\nProject in planning phase (topic and data exploration underway)."
   },
   {
     "objectID": "projects.html#tentative-interests",
     "href": "projects.html#tentative-interests",
     "title": "MADA Course Project",
     "section": "Tentative Interests",
-    "text": "Tentative Interests\nI am currently interested in exploring questions related to: - Public health data - Health outcomes and disparities - Reproducible data analysis workflows"
+    "text": "Tentative Interests\nI am currently interested in exploring questions related to:\n\nPublic health data\n\nHealth outcomes and disparities\nReproducible data analysis workflows"
   },
   {
     "objectID": "projects.html#next-steps",
@@ -60,7 +60,7 @@
     "href": "contacts.html",
     "title": "Contacts / Links",
     "section": "",
-    "text": "Email: aat97057@uga.edu To know more about me, here is the link to my LinkedIn profile."
+    "text": "To know more about me, here is the link to my LinkedIn profile."
   },
   {
     "objectID": "reflections.html",
@@ -75,5 +75,47 @@
     "title": "Weekly Reflections",
     "section": "",
     "text": "This week focused on understanding the full data analysis workflow, from question and data matching to reporting results. A key takeaway for me was the importance of reproducibility and interpretation over applying advanced models."
+  },
+  {
+    "objectID": "contacts.html#email-email-link",
+    "href": "contacts.html#email-email-link",
+    "title": "Contacts / Links",
+    "section": "",
+    "text": "To know more about me, here is the link to my LinkedIn profile."
+  },
+  {
+    "objectID": "contacts.html#email-aat97057uga.edu",
+    "href": "contacts.html#email-aat97057uga.edu",
+    "title": "Contacts / Links",
+    "section": "",
+    "text": "To know more about me, here is the link to my LinkedIn profile."
+  },
+  {
+    "objectID": "about.html#tools-im-using-in-mada",
+    "href": "about.html#tools-im-using-in-mada",
+    "title": "About Me",
+    "section": "Tools I’m Using in MADA",
+    "text": "Tools I’m Using in MADA\n\nR and Positron\nQuarto\nGit and GitHub\nDiscord for collaboration"
+  },
+  {
+    "objectID": "about.html#a-little-about-me.",
+    "href": "about.html#a-little-about-me.",
+    "title": "About Me",
+    "section": "A little about me….",
+    "text": "A little about me….\nHi everyone, my name is Alexandra (Alex) Tejada-Strop, and I’m a DrPH student in Health Policy and Management. I have a background in public health and laboratory science and have used R for basic data cleaning, analysis, and visualization. I’m comfortable with statistics conceptually, but I’m still developing my applied modeling skills. My experience with Git and GitHub is limited, so I’m looking forward to getting more practice with reproducible workflows.\nIn this course, I hope to strengthen my skills in reproducible data analysis, model evaluation, and using tools like Quarto and tidymodels. I’m interested in applying what we learn to real-world public health or surveillance data, potentially aligned with my dissertation or professional work.\nI work full-time at the CDC for the Division of Hepatitis at the Laboratory Branch. I also have a 10 year old son that loves sports, and my husband Jared. Our favorite thing it to travel and try new restaurants. The puppy in the picture is our cavapoo, Maple."
+  },
+  {
+    "objectID": "contacts.html#linkedin-profile",
+    "href": "contacts.html#linkedin-profile",
+    "title": "Contacts / Links",
+    "section": "Linkedin Profile",
+    "text": "Linkedin Profile\nTo know more about me, here is the link to my LinkedIn profile."
+  },
+  {
+    "objectID": "contacts.html#aat97057uga.edu",
+    "href": "contacts.html#aat97057uga.edu",
+    "title": "Contacts / Links",
+    "section": "(aat97057@uga.edu)",
+    "text": "(aat97057@uga.edu)"
   }
 ]

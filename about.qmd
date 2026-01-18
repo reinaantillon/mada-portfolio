@@ -4,7 +4,7 @@ title: "About Me"
 ![](alexandra.jpg){width=200px}
 
 
-
+## A little about me....
 Hi everyone, my name is Alexandra (Alex) Tejada-Strop, and I’m a DrPH student in Health Policy and Management. I have a background in public health and laboratory science and have used R for basic data cleaning, analysis, and visualization. I’m comfortable with statistics conceptually, but I’m still developing my applied modeling skills. My experience with Git and GitHub is limited, so I’m looking forward to getting more practice with reproducible workflows.
 
 In this course, I hope to strengthen my skills in reproducible data analysis, model evaluation, and using tools like Quarto and tidymodels. I’m interested in applying what we learn to real-world public health or surveillance data, potentially aligned with my dissertation or professional work.
@@ -12,4 +12,8 @@ In this course, I hope to strengthen my skills in reproducible data analysis, mo
 I work full-time at the CDC for the Division of Hepatitis at the Laboratory Branch. I also have a 10 year old son that loves sports, and my husband Jared. Our favorite thing it to travel and try new restaurants. The puppy in the picture is our cavapoo, Maple.
 
 
-To know more about me, here is the link to my [LinkedIn profile](https://www.linkedin.com/in/alexandra-tejada-strop-77822b1b).
+## Tools I’m Using in MADA
+- R and Positron
+- Quarto
+- Git and GitHub
+- Discord for collaboration

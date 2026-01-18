@@ -6,11 +6,12 @@ title: "MADA Course Project"
 This page will document my semester-long data analysis project for the MADA course.
 
 ## Status
-🔧 Project in planning phase (topic and data exploration underway).
+Project in planning phase (topic and data exploration underway).
 
 ## Tentative Interests
 I am currently interested in exploring questions related to:
-- Public health data
+
+- Public health data             
 - Health outcomes and disparities
 - Reproducible data analysis workflows
 
